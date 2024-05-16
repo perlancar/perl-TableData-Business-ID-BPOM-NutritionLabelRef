@@ -15,7 +15,7 @@ with 'TableDataRole::Business::ID::BPOM::NutritionLabelRef';
 # STATS
 
 1;
-# ABSTRACT: Nutrients (alias for TableData::Business::ID::BPOM::NutritionLabelRef)
+# ABSTRACT: Nutrients (shorter alias for TableData::Business::ID::BPOM::NutritionLabelRef)
 
 =for Pod::Coverage ^()$
 
